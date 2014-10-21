@@ -1,0 +1,19 @@
+{
+  "name": "office-js",
+  "version": "pre-alpha",
+  "author": "Stelios Anagnostopoulos <stelios@outlook.com>",
+  "description": "Office client for nodejs",
+  "license": "All rights reserved",
+  "main": "init.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanagnos/office-js"
+  },
+  "bugs": {
+    "url": "https://github.com/sanagnos/office-js/issues"
+  },
+  "homepage": "https://github.com/sanagnos/office-js",
+  "engines": {
+    "node": "0.10.32"
+  }
+}
